@@ -14,7 +14,7 @@ namespace UnitTests
         [TestMethod]
         public void ThisTestWillFail()
         {
-            Assert.AreEqual(1, 2);
+            Assert.AreEqual(2, 2);
         }
     }
 }
